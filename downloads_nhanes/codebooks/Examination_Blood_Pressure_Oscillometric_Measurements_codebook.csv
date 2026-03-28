@@ -1,0 +1,27 @@
+Code or Value,Value Description,Count,Cumulative,Skip to Item,Header Name,Description
+L,Left,51,51,,BPAOARM,Arm selected - oscillometric
+R,Right,7603,7654,,BPAOARM,Arm selected - oscillometric
+< blank >,Missing,147,7801,,BPAOARM,Arm selected - oscillometric
+2,17-21.9 (bladder size = 9.20 x 16.68 cm),330,330,,BPAOCSZ,Coded cuff size - oscillometric
+3,22-31.9 (bladder size = 12.49 x 23.52 cm),3404,3734,,BPAOCSZ,Coded cuff size - oscillometric
+4,32-41.9 (bladder size = 14.98 x 31.19 cm),3442,7176,,BPAOCSZ,Coded cuff size - oscillometric
+5,42-50 (bladder size = 17.98 x 37.89 cm),435,7611,,BPAOCSZ,Coded cuff size - oscillometric
+.,Missing,190,7801,,BPAOCSZ,Coded cuff size - oscillometric
+61 to 232,Range of Values,7517,7517,,BPXOSY1,Systolic - 1st oscillometric reading
+.,Missing,284,7801,,BPXOSY1,Systolic - 1st oscillometric reading
+33 to 142,Range of Values,7517,7517,,BPXODI1,Diastolic - 1st oscillometric reading
+.,Missing,284,7801,,BPXODI1,Diastolic - 1st oscillometric reading
+59 to 233,Range of Values,7505,7505,,BPXOSY2,Systolic - 2nd oscillometric reading
+.,Missing,296,7801,,BPXOSY2,Systolic - 2nd oscillometric reading
+32 to 139,Range of Values,7505,7505,,BPXODI2,Diastolic - 2nd oscillometric reading
+.,Missing,296,7801,,BPXODI2,Diastolic - 2nd oscillometric reading
+50 to 232,Range of Values,7480,7480,,BPXOSY3,Systolic - 3rd oscillometric reading
+.,Missing,321,7801,,BPXOSY3,Systolic - 3rd oscillometric reading
+24 to 136,Range of Values,7480,7480,,BPXODI3,Diastolic - 3rd oscillometric reading
+.,Missing,321,7801,,BPXODI3,Diastolic - 3rd oscillometric reading
+35 to 158,Range of Values,7517,7517,,BPXOPLS1,Pulse - 1st oscillometric reading
+.,Missing,284,7801,,BPXOPLS1,Pulse - 1st oscillometric reading
+32 to 141,Range of Values,7505,7505,,BPXOPLS2,Pulse - 2nd oscillometric reading
+.,Missing,296,7801,,BPXOPLS2,Pulse - 2nd oscillometric reading
+31 to 154,Range of Values,7480,7480,,BPXOPLS3,Pulse - 3rd oscillometric reading
+.,Missing,321,7801,,BPXOPLS3,Pulse - 3rd oscillometric reading
